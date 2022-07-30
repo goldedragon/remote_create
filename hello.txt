@@ -5,4 +5,4 @@ import "fmt"
 func main() {
 	fmt.Println("hello world")
 }
-你好啊干的漂亮，非常漂亮
+莫使金樽空对月
